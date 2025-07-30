@@ -1,0 +1,1 @@
+Para este proyecto, se elaborararon pruebas y documentación relacionada a los requisitos para la función de compartir un automóvil de la aplicación Urban Routes. El ejercicio fue analizar y descomponer estos requisitos, dividir clases de equivalencia y diseñar casos de prueba.
